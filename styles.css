@@ -1,0 +1,173 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red107\green0\blue1;\red234\green234\blue234;\red0\green0\blue0;
+\red251\green0\blue7;\red9\green60\blue148;\red19\green118\blue70;}
+{\*\expandedcolortbl;;\cssrgb\c50196\c0\c0;\cssrgb\c93333\c93333\c93333;\cssrgb\c0\c0\c0;
+\cssrgb\c100000\c0\c0;\cssrgb\c1569\c31765\c64706;\cssrgb\c3529\c52549\c34510;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs36 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 *\cf0 \strokec4 ,\cb1 \strokec4 \
+\cf2 \cb3 \strokec2 *::before\cf0 \strokec4 ,\cb1 \strokec4 \
+\cf2 \cb3 \strokec2 *::after\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 box-sizing:\cf0 \strokec4  \cf6 \strokec6 border-box\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf7 \strokec7 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 :root\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 --light-grey:\cf0 \strokec4  \cf6 \strokec6 #f5f6f7\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 --dark-blue:\cf0 \strokec4  \cf6 \strokec6 #1b1b32\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 --orange:\cf0 \strokec4  \cf6 \strokec6 #f1be32\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 body\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 display:\cf0 \strokec4  \cf6 \strokec6 flex\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 flex-direction:\cf0 \strokec4  \cf6 \strokec6 column\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 align-items:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-family:\cf0 \strokec4  \cf6 \strokec6 Menlo\cf0 \strokec4 , \cf6 \strokec6 Consolas\cf0 \strokec4 , \cf6 \strokec6 Monaco\cf0 \strokec4 , \cf6 \strokec6 Liberation\cf0 \strokec4  \cf6 \strokec6 Mono\cf0 \strokec4 , \cf6 \strokec6 Lucida\cf0 \strokec4  \cf6 \strokec6 Console\cf0 \strokec4 ,\cb1 \strokec4 \
+\cb3 \strokec4     \cf6 \strokec6 monospace\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf7 \strokec7 1.125rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 color:\cf0 \strokec4  \cf6 \strokec6 var(--light-grey)\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 background-color:\cf0 \strokec4  \cf6 \strokec6 var(--dark-blue)\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 0\cf0 \strokec4  \cf7 \strokec7 4px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 h1\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf7 \strokec7 2.125rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 text-align:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf7 \strokec7 20px\cf0 \strokec4  \cf7 \strokec7 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 h2\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf7 \strokec7 1.5rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 text-align:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf7 \strokec7 20px\cf0 \strokec4  \cf7 \strokec7 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .input-container\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 display:\cf0 \strokec4  \cf6 \strokec6 flex\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 flex-direction:\cf0 \strokec4  \cf6 \strokec6 column\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 gap:\cf0 \strokec4  \cf7 \strokec7 10px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 justify-content:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 align-items:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 clamp(\cf7 \strokec7 320px\cf0 \strokec4 , \cf7 \strokec7 50vw\cf0 \strokec4 , \cf7 \strokec7 460px\cf6 \strokec6 )\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf7 \strokec7 10px\cf0 \strokec4  \cf6 \strokec6 auto\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .input-container\cf0 \strokec4  \cf2 \strokec2 label\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 white-space:\cf0 \strokec4  \cf6 \strokec6 nowrap\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 word-spacing:\cf0 \strokec4  \cf7 \strokec7 -6px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .convert-btn\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf6 \strokec6 inherit\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-family:\cf0 \strokec4  \cf6 \strokec6 inherit\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 background-color:\cf0 \strokec4  \cf6 \strokec6 var(--orange)\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf7 \strokec7 100%\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 height:\cf0 \strokec4  \cf7 \strokec7 2rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 0\cf0 \strokec4  \cf7 \strokec7 6px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border:\cf0 \strokec4  \cf6 \strokec6 none\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border-radius:\cf0 \strokec4  \cf7 \strokec7 2px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 cursor:\cf0 \strokec4  \cf6 \strokec6 pointer\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .number-input\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf6 \strokec6 inherit\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 0.3rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf7 \strokec7 100%\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .output-container\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 margin-inline:\cf0 \strokec4  \cf6 \strokec6 auto\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 clamp(\cf7 \strokec7 320px\cf0 \strokec4 , \cf7 \strokec7 50vw\cf0 \strokec4 , \cf7 \strokec7 460px\cf6 \strokec6 )\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 #result\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 display:\cf0 \strokec4  \cf6 \strokec6 flex\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 align-items:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 justify-content:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf7 \strokec7 2rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 text-align:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 min-height:\cf0 \strokec4  \cf7 \strokec7 80px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin-block-start:\cf0 \strokec4  \cf7 \strokec7 20px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 15px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border:\cf0 \strokec4  \cf7 \strokec7 2px\cf0 \strokec4  \cf6 \strokec6 solid\cf0 \strokec4  \cf6 \strokec6 var(--orange)\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border-radius:\cf0 \strokec4  \cf7 \strokec7 2px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 #animation-container\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 display:\cf0 \strokec4  \cf6 \strokec6 flex\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 flex-direction:\cf0 \strokec4  \cf6 \strokec6 column-reverse\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 justify-content:\cf0 \strokec4  \cf6 \strokec6 end\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 gap:\cf0 \strokec4  \cf7 \strokec7 1rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin-block-end:\cf0 \strokec4  \cf7 \strokec7 1rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 min-height:\cf0 \strokec4  \cf7 \strokec7 40vh\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border:\cf0 \strokec4  \cf7 \strokec7 2px\cf0 \strokec4  \cf6 \strokec6 dashed\cf0 \strokec4  \cf6 \strokec6 var(--orange)\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 1rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .animation-frame\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 font-family:\cf0 \strokec4  \cf6 \strokec6 -apple-system\cf0 \strokec4 , \cf6 \strokec6 BlinkMacSystemFont\cf0 \strokec4 , \cf6 \strokec6 avenir\cf0 \strokec4  \cf6 \strokec6 next\cf0 \strokec4 , \cf6 \strokec6 avenir\cf0 \strokec4 , \cf6 \strokec6 segoe\cf0 \strokec4  \cf6 \strokec6 ui\cf0 \strokec4 ,\cb1 \strokec4 \
+\cb3 \strokec4     \cf6 \strokec6 helvetica\cf0 \strokec4  \cf6 \strokec6 neue\cf0 \strokec4 , \cf6 \strokec6 helvetica\cf0 \strokec4 , \cf6 \strokec6 Cantarell\cf0 \strokec4 , \cf6 \strokec6 Ubuntu\cf0 \strokec4 , \cf6 \strokec6 roboto\cf0 \strokec4 , \cf6 \strokec6 noto\cf0 \strokec4 , \cf6 \strokec6 arial\cf0 \strokec4 ,\cb1 \strokec4 \
+\cb3 \strokec4     \cf6 \strokec6 sans-serif\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 15px\cf0 \strokec4  \cf7 \strokec7 10px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border:\cf0 \strokec4  \cf7 \strokec7 5px\cf0 \strokec4  \cf6 \strokec6 solid\cf0 \strokec4  \cf6 \strokec6 var(--orange)\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf7 \strokec7 1.2rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 text-align:\cf0 \strokec4  \cf6 \strokec6 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\cb3 \strokec4 @\cf2 \strokec2 media\cf0 \strokec4  \cf2 \strokec2 screen\cf0 \strokec4  \cf2 \strokec2 and\cf0 \strokec4  (\cf2 \strokec2 min-width:\cf0 \strokec4  36\cf2 \strokec2 em\cf0 \strokec4 ) \{\cb1 \strokec4 \
+\cb3 \strokec4   body \{\cb1 \strokec4 \
+\cb3 \strokec4     \cf5 \strokec5 font-size:\cf0 \strokec4  \cf7 \strokec7 1rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \}\cb1 \strokec4 \
+\
+\cb3 \strokec4   \cf2 \strokec2 .input-container\cf0 \strokec4  \{\cb1 \strokec4 \
+\cb3 \strokec4     \cf5 \strokec5 flex-direction:\cf0 \strokec4  \cf6 \strokec6 row\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4     \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 unset\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \}\cb1 \strokec4 \
+\
+\cb3 \strokec4   \cf2 \strokec2 .number-input\cf0 \strokec4  \{\cb1 \strokec4 \
+\cb3 \strokec4     \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 unset\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .animation-frame\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 font-family:\cf0 \strokec4  \cf6 \strokec6 monospace\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 background:\cf0 \strokec4  \cf6 \strokec6 #f5f5f5\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border-left:\cf0 \strokec4  \cf7 \strokec7 4px\cf0 \strokec4  \cf6 \strokec6 solid\cf0 \strokec4  \cf6 \strokec6 #333\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf7 \strokec7 8px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf7 \strokec7 6px\cf0 \strokec4  \cf7 \strokec7 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 transition:\cf0 \strokec4  \cf6 \strokec6 opacity\cf0 \strokec4  \cf7 \strokec7 0.3s\cf0 \strokec4  \cf6 \strokec6 ease\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\cb3 \strokec4 \}\cb1 \strokec4 \
+}
